@@ -794,6 +794,12 @@ a:hover {
     color: rgb(167, 166, 166);
     margin-top: 0;
 }
+.main-timeline .title1{
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(167, 166, 166);
+    margin-top: 0;
+}
 .main-timeline .description{
     font-size: 14px;
     color: #7D8590;
